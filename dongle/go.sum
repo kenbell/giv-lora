@@ -1,0 +1,6 @@
+github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 h1:El6M4kTTCOh6aBiKaUGG7oYTSPP8MxqL4YI3kZKwcP4=
+github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510/go.mod h1:pupxD2MaaD3pAXIBCelhxNneeOaAeabZDe5s4K6zSpQ=
+github.com/kenbell/tinygo-lora v0.0.0-20240208120143-0d47a2a028ee h1:0fJ5yDwLPNHoqZ0Tm+ezX+mpo1S1b7geiley21rbyVc=
+github.com/kenbell/tinygo-lora v0.0.0-20240208120143-0d47a2a028ee/go.mod h1:nPhakhjkDBBED+jgX3YbSEX06vngiHRM9Ew/RaSel1E=
+tinygo.org/x/drivers v0.26.0 h1:7KSIYssX0ki0dd7yBYkVZWSG0kt8vrZNS0It73TymcA=
+tinygo.org/x/drivers v0.26.0/go.mod h1:X7utcg3yfFUFuKLOMTZD56eztXMjpkcf8OHldfTBsjw=
